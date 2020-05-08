@@ -2,6 +2,7 @@
 
 **This is a test website of PRSL at PKU**
 
-Lab introduction is [here](/files/intro.pdf)
+Lab introduction file is [here](/files/intro.pdf)
 
-![Lab intro](/images/intro.png)
+![Lab intro1](/images/intro1.png)
+![Lab intro2](/images/intro2.png)
