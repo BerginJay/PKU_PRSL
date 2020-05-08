@@ -4,4 +4,4 @@
 
 Lab introduction is [here](/files/intro.pdf)
 
-[Lab intro](/images/intro.png)
+![Lab intro](/images/intro.png)
